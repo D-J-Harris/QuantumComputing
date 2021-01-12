@@ -1,0 +1,1 @@
+IBM Quantum team, Introduction to Quantum Computing and Quantum Hardware (2020). http://qiskit.org/learn/intro-qc-qh

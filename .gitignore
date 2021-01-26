@@ -434,3 +434,4 @@ dmypy.json
 
 q_env
 .vscode
+.pylintrc

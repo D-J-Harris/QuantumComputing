@@ -37,9 +37,8 @@
 - Quantum Nodes
   - Interface between quantum computers and classical ML libraries
   - evaluate() and gradient() methods
-  - @qml.qnode(device) decorators on functions to define
+  - @qml.qnode(device) decorators on functions to define QNodes
   -  Switching interface e.g. to Torch and Rigetti QPU is pretty straightforward
--  QNodes
 - Ansatz and Templates
   - popular circuit ansatz from QML literature available from qml.templates
   - e.g. StronglyEntanglingLayers, BasisEmbedding
